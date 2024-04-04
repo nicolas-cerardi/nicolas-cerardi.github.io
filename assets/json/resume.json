@@ -13,14 +13,7 @@
       "city": "Gif sur Yvette",
       "countryCode": "France",
       "region": "Ile de France"
-    },
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "nicolas-cerardi",
-        "url": "https://github.com/nicolas-cerardi/"
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -67,16 +60,6 @@
       "summary": "Cosmological forecasts for the Athena mission"
     }
   ],
-  "skills": [
-    {
-      "name": "Machine Learning",
-      "icon": "fa-solid fa-hashtag",
-    },
-    {
-      "name": "Astrophysics",
-      "icon": "fa-solid fa-hashtag",
-    },
-  ],
   "languages": [
     {
       "language": "French",
@@ -97,33 +80,6 @@
       "language": "Russian",
       "fluency": "Basics",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Astrophysics",
-        "Cosmology"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Statistics",
-        "Information Theory",
-        "Control Theory",
-        "Machine Learning"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor Marguerite Pierre",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Main PhD advisor."
     }
   ]
 }
