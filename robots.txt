@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nicolas-cerardi.github.io/sitemap.xml
+Sitemap: https://nicolas-cerardi.github.io/blog//sitemap.xml
