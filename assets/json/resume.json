@@ -21,5 +21,15 @@
         "network": "github"
       }
     ]
-  }
+  },
+  "education": [
+    {
+      "institution": "Paris Observatory",
+      "location": "Paris, France",
+      "studyType": "Masters",
+      "startDate": "2019-09-01",
+      "endDate": "2020-12-01",
+      "summary": "Astronomy and Space-based Systems Engineering. Top of class"
+    }
+  ]
 }
