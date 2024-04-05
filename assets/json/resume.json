@@ -26,10 +26,48 @@
     {
       "institution": "Paris Observatory",
       "location": "Paris, France",
-      "studyType": "Masters",
+      "studyType": "Master",
       "startDate": "2019",
       "endDate": "2020",
       "area": "Astronomy and Space-based Systems Engineering. Top of class."
+    },
+    {
+      "institution": "Mines ParisTech",
+      "location": "Paris, France",
+      "studyType": "Engineering School (Master & Bachelor)",
+      "startDate": "2016",
+      "endDate": "2019",
+      "area": "Science and Engineering, major in Data Science. Mention Très Bien"
+    },
+    {
+      "institution": "Lycée Ste Geneviève",
+      "location": "Versailles, France",
+      "studyType": "Preparatory Classes",
+      "startDate": "2016",
+      "endDate": "2029",
+      "area": "Maths and Physics for the competitive entrance exams of French enginnering schools. Top 1%."
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Russian",
+      "fluency": "Basics",
+      "icon": ""
     }
   ]
 }
