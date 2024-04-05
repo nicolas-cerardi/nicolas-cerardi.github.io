@@ -16,11 +16,10 @@
     },
     "profiles": [
       {
-        "network": "Github",
-        "username": "nicolas-cerardi",
-        "url": "https://github.com/nicolas-cerardi"
+        "url": "https://github.com//nicolas-cerardi",
+        "username": "/nicolas-cerardi",
+        "network": "github"
       }
     ]
-  },
-  
+  }
 }
