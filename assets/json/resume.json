@@ -13,6 +13,14 @@
       "city": "Gif sur Yvette",
       "countryCode": "France",
       "region": "Ile de France"
-    }
-  }
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "nicolas-cerardi",
+        "url": "https://github.com/nicolas-cerardi"
+      }
+    ]
+  },
+  
 }
