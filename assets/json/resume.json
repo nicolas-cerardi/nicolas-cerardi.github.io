@@ -4,7 +4,8 @@
     "label": "PhD student",
     "image": "",
     "email": "nicolas dot cerardi at cea dot fr",
-    "url": "https://nicolas-cerardi.github.io/",
+    "phone": "X",
+    "url": "https://nicolas-cerardi.github.io/blog/",
     "summary": "Machine Learning and Astrophysics",
     "location": {
       "address": "Orme des Merisiers",
@@ -73,7 +74,7 @@
       "area": "Astronomy and Space-based Systems Engineering. Top of class."
     },
     {
-      "institution": "Mines ParisTech - University Paris Sciences & Lettres",
+      "institution": "Mines ParisTech - University Paris Sciences et Lettres",
       "location": "Paris, France",
       "studyType": "Engineering School (Master & Bachelor)",
       "startDate": "2016",
