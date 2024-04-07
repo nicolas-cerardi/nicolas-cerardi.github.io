@@ -4,8 +4,7 @@
     "label": "PhD student",
     "image": "",
     "email": "nicolas dot cerardi at cea dot fr",
-    "phone": "X",
-    "url": "https://nicolas-cerardi.github.io/blog/",
+    "url": "https://nicolas-cerardi.github.io/",
     "summary": "Machine Learning and Astrophysics",
     "location": {
       "address": "Orme des Merisiers",
@@ -24,13 +23,30 @@
   },
   "work": [
     {
-      "name": "CEA Saclay",
+      "name": "CEA Saclay, Astrophysics Department",
       "location": "Paris, France",
       "position": "PhD Student",
       "startDate": "2021",
-      "highlights": ["Accelerated Cosmological simulations with Deep Learning", "Forecasts for the ATHENA mission", "Spectroscopic follow-up of X-ray clusters with ESO/VLT and ESO/NTT", "Simulation-Based Inference for cluster cosmology", "Member of the XXL and Euclid Consortia"]
+      "highlights": ["Cosmological simulations accelerated with Deep Learning", "Forecasts for the ATHENA mission", "Spectroscopic follow-up of X-ray clusters with ESO/VLT and ESO/NTT", "Simulation-Based Inference for cluster cosmology", "Member of the XXL and Euclid Consortia"]
     },
-  { 
+    { 
+      "name": "CEA Saclay, Astrophysics Department",
+      "location": "Paris, France",
+      "position": "Research Engineer",
+      "startDate": "2021-03",
+      "endDate": "2021-08",
+      "highlights": ["Research engineer in the XXL Consortium"]
+    },
+    { 
+      "name": "CNES, Department of rockets",
+      "location": "Paris, France",
+      "position": "Internship",
+      "startDate": "2020-07",
+      "endDate": "2020-11",
+      "highlights": ["Predictive maintenance with Deep Learning for rocket engines",
+                     "Deep Reinforcement Learning for reusable rockets"]
+    },
+    { 
       "name": "University of Oslo",
       "location": "Oslo, Norway",
       "position": "Internship",
@@ -41,8 +57,8 @@
   ],
   "education": [
     {
-      "institution": "CEA Saclay",
-      "location": "Paris, France",
+      "institution": "CEA Saclay, Astrophysics Department",
+      "location": "Saclay, France",
       "studyType": "PhD in Astrophysics",
       "startDate": "2021",
       "endDate": "2024",
@@ -57,7 +73,7 @@
       "area": "Astronomy and Space-based Systems Engineering. Top of class."
     },
     {
-      "institution": "Mines ParisTech",
+      "institution": "Mines ParisTech - University Paris Sciences & Lettres",
       "location": "Paris, France",
       "studyType": "Engineering School (Master & Bachelor)",
       "startDate": "2016",
