@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,6 +18,6 @@ profile:
 # social: true # includes social icons at the bottom of the page
 ---
 
-I am a researcher in cosmology, my main tools are simulations and machine learning, that I try to use to better understande our Universe. Currently I am postdoc in the Laboratory of Astrophysics at EPFL, in the beautiful city of Lausanne, facing the Alps across the Leman lake. My topic here is non-CDM simulations accelerated with ML tools.
+I am a researcher in cosmology. My main tools are simulations and machine learning, that I try to use to better understande our Universe. Currently I am postdoc in the Laboratory of Astrophysics at EPFL, in the beautiful city of Lausanne, facing the Alps across the Leman lake. My topic here is non-CDM simulations accelerated with ML tools.
 
 Before that, I did my PhD in Paris, in the CEA institute. There, I worked on cosmology with galaxy clusters. I trained ML models to model X-ray properties of clusters and accelerate cosmological simulations, leveraging simulation-based inference for cluster number counts analyses. I also studied the future ATHENA telescope and forecasted cosmological constraints yielded by ATHENA-based surveys.
