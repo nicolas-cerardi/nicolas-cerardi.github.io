@@ -12,3 +12,7 @@
 "JFM":
   url: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/
   color: "#05f7ff"
+
+"MNRAS":
+    url: https://academic.oup.com/mnras/
+    color: "#9305ff"

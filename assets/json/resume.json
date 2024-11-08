@@ -22,6 +22,14 @@
       }
     ]
   },
+  "positions": [
+    {
+      "institution": "EPFL",
+      "location": "Lausanne, Switzerland",
+      "area": "ML for cosmological simulations for non CDM models",
+      "advisor":"Prof. Emma Tolley"
+    }
+  ],
   "education": [
     {
       "institution": "Paris Observatory",
