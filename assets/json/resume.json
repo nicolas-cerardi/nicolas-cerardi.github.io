@@ -24,15 +24,24 @@
   },
   "positions": [
     {
-      "position": "EPFL",
+      "position": "Postdoc at EPFL / Laboratory of Astrophysics",
       "name": "Lausanne, Switzerland",
       "summary": "ML for cosmological simulations for non CDM models",
       "startDate": "2024",
       "endDate": "Present",
-      "highlights": ["Prof. Emma Tolley"]
+      "highlights": ["Advisor: Prof. Emma Tolley"]
     }
   ],
   "education": [
+    {
+      "institution": "CEA Saclay / Department of Astrophysics",
+      "location": "Paris, France",
+      "studyType": "PhD",
+      "startDate": "2021",
+      "endDate": "2024",
+      "area": "Simulation-based modelling and inference for cosmology with galaxy clusters",
+      "courses": ["Advisor: Prof. Marguerite Pierre"]
+    },
     {
       "institution": "Paris Observatory",
       "location": "Paris, France",
