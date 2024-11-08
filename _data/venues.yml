@@ -6,5 +6,9 @@
   url: https://journals.aps.org/
 
 "A&A":
-  url: https://www.aanda.org
+  url: https://www.aanda.org/
   color: "#fa6f05"
+
+"JFM":
+  url: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/
+  color: "#05f7ff"
