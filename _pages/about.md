@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile_pic2.jpg
+  image: profile_pic2.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>EPFL, Laboratory of Astrophysics</p>
