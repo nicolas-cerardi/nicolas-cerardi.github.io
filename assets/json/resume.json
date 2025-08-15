@@ -1,17 +1,16 @@
 {
   "basics": {
-    "name": "Nicolas Cerardi",
-    "label": "Postdoctoral researcher",
+    "Name": "Nicolas Cerardi",
+    "Position": "Postdoctoral researcher",
     "image": "",
     "email": "nicolas dot cerardi at epfl dot ch",
     "url": "https://nicolas-cerardi.github.io/blog/",
     "summary": "Machine Learning and Astrophysics",
     "location": {
-      "address": "Orme des Merisiers",
-      "postalCode": "91191",
-      "city": "Gif sur Yvette",
-      "countryCode": "France",
-      "region": "Ile de France"
+      "address": "EPFL",
+      "postalCode": "CH-1018",
+      "city": "Lausanne",
+      "countryCode": "Switzerland"
     },
     "profiles": [
       {
