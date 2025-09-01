@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New article in A&A
+title: New article in A&A 📃
 date: 2025-08-10 10:00:00-0400
 inline: false
 related_posts: false
