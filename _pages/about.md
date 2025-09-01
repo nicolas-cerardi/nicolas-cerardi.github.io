@@ -8,9 +8,9 @@ profile:
   align: right
   image: profile_pic2.jpeg
   image_circular: false # crops the image to make it circular
- # more_info: >
- #   <p>EPFL, Laboratory of Astrophysics</p>
- #   <p>Lausanne, Switzerland</p>
+  # more_info: >
+  #   <p>EPFL, Laboratory of Astrophysics</p>
+  #   <p>Lausanne, Switzerland</p>
 
 announcements:
   enabled: true # includes a list of news items
@@ -21,6 +21,7 @@ news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
+
 ### Postdoc @EPFL
 
 I am a researcher in cosmology. My main tools are simulations and machine learning, that I try to use to better understand our Universe. Currently I am postdoc in the Laboratory of Astrophysics at EPFL, in the beautiful city of Lausanne, facing the Alps across the Leman lake. I work on Dark Matter simulations with kolmogorov-arnold neural networks. I also study the impact of satellites on radio telescopes, in particular in the context of SKA. Finally, I also participated to the SKA Data Challenge 3b with the SEarCH team, in order to infer the history of reionization from SKA mock observations.
