@@ -360,6 +360,23 @@ blockquote {
   }
 }
 
+// Background header
+/* put this in your stylesheet */
+.site-header {
+  position: relative;
+  background: url('assets/img/bkg_header.jpg') no-repeat center center;
+  background-size: cover;
+  /* make sure the image stays behind the navbar */
+  z-index: 0;
+}
+
+.site-header nav {
+  position: relative;
+  z-index: 1;
+}
+
+
+
 // Social (bottom)
 
 .social {
