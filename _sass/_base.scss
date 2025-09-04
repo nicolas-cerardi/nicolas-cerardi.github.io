@@ -227,11 +227,17 @@ blockquote {
 
 // Navbar customization
 
-.navbar {
+/*.navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.05;
+  opacity: 0.95;
+}*/
+
+.navbar {
+  position: relative;
+  z-index: 1;
+  background-color: transparent !important; // make sure it doesn’t hide the image
 }
 
 .navbar .dropdown-menu {
@@ -361,13 +367,23 @@ blockquote {
 }
 
 // Background header
-/* put this in your stylesheet */
+/* 
 .site-header {
   position: relative;
   background: url('assets/img/bkg_header.jpg') no-repeat center center;
   background-size: cover;
-  /* make sure the image stays behind the navbar */
+  // make sure the image stays behind the navbar
   z-index: 0;
+} */
+
+.site-header {
+  position: relative;
+  // min-height: 300px; // adjust as you like
+  background-color: var(--global-bg-color); // dark background
+  background-image: url('assets/img/bkg_header.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .site-header nav {
