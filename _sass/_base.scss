@@ -380,7 +380,7 @@ blockquote {
   position: relative;
   // min-height: 300px; // adjust as you like
   background-color: var(--global-bg-color); // dark background
-  background-image: url('assets/img/bkg_header.jpg');
+  background-image: url("assets/img/bkg_header.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -390,8 +390,6 @@ blockquote {
   position: relative;
   z-index: 1;
 }
-
-
 
 // Social (bottom)
 
