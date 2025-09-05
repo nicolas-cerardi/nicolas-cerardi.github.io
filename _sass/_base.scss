@@ -379,6 +379,8 @@ blockquote {
 .site-header {
   position: relative;
   max-width: 800px; // adjust as you like
+  min-height: 400px;
+  margin: 0 auto;
   background-color: var(--global-bg-color); // dark background var(--global-bg-color)
   background-image: url("/assets/img/bkg_header.jpg");
   background-repeat: no-repeat;
