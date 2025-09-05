@@ -17,6 +17,7 @@ on:
       - "!.github/workflows/deploy-image.yml"
       - "!.github/workflows/docker-slim.yml"
       - "!.github/workflows/prettier.yml"
+      - "**.scss"
   pull_request:
     branches:
       - master
