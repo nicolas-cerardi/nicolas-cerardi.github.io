@@ -242,7 +242,7 @@ blockquote {
 
 .navbar {
   position: absolute;
-  top: 342px;
+  top: 190px;
   //bottom: 0; // align with bottom edge
   right: 0;
   width: 100%;
@@ -391,10 +391,10 @@ blockquote {
 .site-header {
   position: relative;
   max-width: 800px; // adjust as you like
-  min-height: 400px;
+  min-height: 246px;
   margin: 0 auto;
   background-color: var(--global-bg-color); // dark background var(--global-bg-color)
-  background-image: url("/assets/img/bkg_header.jpg");
+  background-image: url("/assets/img/skynightChambeyron.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -402,7 +402,7 @@ blockquote {
 
 .site-header nav {
   position: absolute;
-  top: 342px; // align with bottom edge
+  top: 190px; // align with bottom edge
   right: 0;
   width: 100%;
   height: 56px;
