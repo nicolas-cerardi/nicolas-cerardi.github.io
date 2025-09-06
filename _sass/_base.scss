@@ -242,7 +242,8 @@ blockquote {
 
 .navbar {
   position: absolute;
-  bottom: 0; // align with bottom edge
+  top: 342px;
+  //bottom: 0; // align with bottom edge
   right: 0;
   width: 100%;
   z-index: 2;
