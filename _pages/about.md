@@ -12,6 +12,8 @@ profile:
   #   <p>EPFL, Laboratory of Astrophysics</p>
   #   <p>Lausanne, Switzerland</p>
 
+lab_logo:
+  image: logo_epfl.jpg
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items

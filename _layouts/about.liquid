@@ -40,6 +40,13 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    {% if page.lab_logo %}
+      {% if page.lab_logo.image %}
+        {% assign lab_logo_path = page.lab_logo.image | prepend: 'assets/img/' %}
+        <img src="{{lab_logo_path}}" alt=”EPFL”>
+      {% endif %}
+    {% endif %}
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
