@@ -228,8 +228,10 @@ blockquote {
 // lab logo
 .lab-logo {
   display: block;        // ensures margins apply as expected
-  margin: 20px auto;     // adds top/bottom spacing, centers horizontally
-  max-width: 150px;      
+  margin-top: 20px;     // adds top/bottom spacing, centers horizontally
+  margin-bottom: 20px;
+  margin-right: 0px;
+  max-width: 130px;      
   height: auto;          // keeps aspect ratio
 }
 

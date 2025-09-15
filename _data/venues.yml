@@ -16,3 +16,7 @@
 "MNRAS":
   url: https://academic.oup.com/mnras/
   color: "#9305ff"
+
+"EPIA":
+  url: https://epia2025.ualg.pt/
+  color: "#05FA98"
