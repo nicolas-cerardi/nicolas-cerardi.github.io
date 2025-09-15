@@ -225,6 +225,14 @@ blockquote {
   }
 }
 
+// lab logo
+.lab-logo {
+  display: block;        // ensures margins apply as expected
+  margin: 20px auto;     // adds top/bottom spacing, centers horizontally
+  max-width: 150px;      
+  height: auto;          // keeps aspect ratio
+}
+
 // Navbar customization
 
 /*.navbar {
