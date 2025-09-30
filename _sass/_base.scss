@@ -296,7 +296,7 @@ blockquote {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-hover-color); //--global-text-color
   }
 
   .navbar-nav .nav-item .nav-link {
@@ -381,7 +381,8 @@ blockquote {
   padding: 0;
   border: 0;
   background-color: inherit;
-  color: var(--global-text-color);
+  //--global-text-color
+  color: var(--global-hover-color);
 
   &:hover {
     color: var(--global-hover-color);
