@@ -10,7 +10,7 @@
       <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
         {% if include.limit and site.announcements.limit %}
-          {% assign news_limit = 2 %}
+          {% assign news_limit = 3 %}
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
