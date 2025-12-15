@@ -14,7 +14,4 @@ We proposed 2 methods to infer the neutral hydrogen fraction, using Simulation-B
      alt="SDC3b PS2D Results"
      style="width: 70%;" />
 
-
-The SEarCH team is a group of Swiss and Swedish early career scientists that compete in the SKA Data Challenges. I joined the group right after my arrival at EPFL, for the SDC3b. During the latest SKACH Days in Winterthur, we were awarded the  [**Outstanding Inter-Institutional Project Award**](https://skach.org/2025/09/02/celebrating-the-inaugural-skach-awards/).
-
-
+The SEarCH team is a group of Swiss and Swedish early career scientists that compete in the SKA Data Challenges. I joined the group right after my arrival at EPFL, for the SDC3b. During the latest SKACH Days in Winterthur, we were awarded the [**Outstanding Inter-Institutional Project Award**](https://skach.org/2025/09/02/celebrating-the-inaugural-skach-awards/).
