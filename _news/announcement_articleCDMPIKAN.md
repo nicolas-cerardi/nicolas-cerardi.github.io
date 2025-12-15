@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-My new article was accepted in MNRAS.
+Cold Dark Matter accounts for most of the matter content of the Universe, and is hence a key ingredient in cosmological simulations. Traditional N-Body simulations discretize the CDM fluid into particles (Diracs in the phase space), leading to inacurracies at small scales. My new article, <a href="https://arxiv.org/abs/2512.11795">Solving the Cosmological Vlasov-Poisson Equations with Physics-Informed Kolmogorov-Arnold Networks</a>, to be published in MNRAS, provides an alternative path to evolve the CDM fluid sheet using neural networks.
