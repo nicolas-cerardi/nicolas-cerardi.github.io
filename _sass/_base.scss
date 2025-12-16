@@ -227,12 +227,12 @@ blockquote {
 
 // lab logo
 .lab-logo {
-  display: block; // ensures margins apply as expected
-  margin-top: 20px; // adds top/bottom spacing, centers horizontally
+  display: block;        // ensures margins apply as expected
+  margin-top: 20px;     // adds top/bottom spacing, centers horizontally
   margin-bottom: 20px;
   margin-right: 0px;
-  max-width: 130px;
-  height: auto; // keeps aspect ratio
+  max-width: 130px;      
+  height: auto;          // keeps aspect ratio
 }
 
 // Navbar customization
@@ -296,12 +296,13 @@ blockquote {
   }
 
   .navbar-brand {
-    color: var(--global-hover-color); //--global-text-color
+    //color: var(--global-text-color); //--global-text-color
+    color: var(--global-navtext-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
-
+    //color: var(--global-text-color);
+    color: var(--global-navtext-color);
     &:hover {
       color: var(--global-hover-color);
     }
@@ -324,7 +325,7 @@ blockquote {
 
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-navtext-color); //color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -342,7 +343,7 @@ blockquote {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: var(--global-text-color);
+    color: var(--global-navtext-color); //background-color: var(--global-text-color);
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
@@ -382,7 +383,7 @@ blockquote {
   border: 0;
   background-color: inherit;
   //--global-text-color
-  color: var(--global-hover-color);
+  color: var(--global-navtext-color);
 
   &:hover {
     color: var(--global-hover-color);
