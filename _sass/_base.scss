@@ -294,8 +294,8 @@ blockquote {
       text-decoration: none;
     }
   }
-
-  .navbar-brand {
+  .navbar-brand,
+  .navbar-brand * {
     //color: var(--global-text-color); //--global-text-color
     color: var(--global-navtext-color);
   }
