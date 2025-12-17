@@ -11,3 +11,7 @@ Cold Dark Matter accounts for most of the matter content of the Universe, and is
 <img src="/assets/img/pikan_and_nbody.gif" 
      alt="CDM simulation with PIKAN vs N-body"
      style="width: 100%;" />
+
+In the image above, the PIKAN output is compared to the N-body simulation in the phase space, for a 1D single halo collapse. The CDM sheet (dark line) folds in a spiral pattern. The PIKAN achieves remarkable results, without discretizing the CDM sheet.
+
+The code behind the paper is publicly available in the <a href="https://github.com/nicolas-cerardi/cdm-pikan">cdm-pikan</a> github repo.
