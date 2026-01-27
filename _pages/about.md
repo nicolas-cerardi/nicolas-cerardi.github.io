@@ -6,8 +6,8 @@ permalink: /
 
 profile:
   align: right
-  image: profile_pic2.jpeg
-  image_circular: false # crops the image to make it circular
+  image: Nico_in_Alps.jpg
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>EPFL, Laboratory of Astrophysics</p>
   #   <p>Lausanne, Switzerland</p>
