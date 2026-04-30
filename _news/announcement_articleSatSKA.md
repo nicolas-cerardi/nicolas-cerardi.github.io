@@ -17,5 +17,4 @@ The current deployement of satellite megaconstellations are causing a steep incr
 
 In this figure, we show the average number of satellite per hour of observation, depending on the pointing position, from SKA-Mid location. We assume 5 major satellite constellations (Starlinks, Oneweb, Leo, Guowang and Qianfan), fully deployed. Each constellations in structured in orbital shells; their edges are responsible for to dense stripes of satellites visible in the figure.
 
-
 The code behind the paper is publicly available in the <a href="https://github.com/nicolas-cerardi/Analytical-Satsky">Analytical-Satsky</a> github repo, and the <a href="https://arxiv.org/abs/2604.22694">letter preprint</a> is on arXiv.
