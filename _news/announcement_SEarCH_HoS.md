@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper on EoR inference with higher-order statistics published in MNRAS 📃
-date: 2025-04-26 10:00:00-0400
+date: 2026-04-26 10:00:00-0400
 inline: false
 related_posts: false
 ---

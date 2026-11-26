@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The SKA SDC3b paper is out 📃
-date: 2025-11-26 10:00:00-0400
+date: 2026-11-26 10:00:00-0400
 inline: false
 related_posts: false
 ---
